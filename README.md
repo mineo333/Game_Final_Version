@@ -1,13 +1,9 @@
-# FInalProjectFiles
-This is the place where all the files will be located. 
-#PLEASE DO NOT EDIT OR CHANGE THIS FILE.
+# Final Project
+Link to download: https://www.mediafire.com/?j8judj209zp97i7
+### Project Notes:
+To get any files look in the assets folder
 
-Also DO NOT DOWNLOAD THIS FILE PLEASE!!!! 
+For scripts copy and paste because if you download they wil ask for the .meta file
 
-Only edit from Unity Cloud Build
 
-Guidelines:
 
-Don't add anything to any file
-
-Don't delete anything from any file
