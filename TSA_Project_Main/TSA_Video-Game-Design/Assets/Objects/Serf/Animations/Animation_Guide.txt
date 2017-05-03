@@ -1,0 +1,7 @@
+
+
+The Animation Controllers work as follows:
+The 'Text' Animation Controller controls the movement of the Serf
+The 'Axe' Animation Controller controls the Axe swing
+The 'Wand' Animation Controller controls the wand movement
+Note: The 'Off' Animations in both the Axe and Wand folders are there for a reason, please do not delete.
